@@ -1,7 +1,7 @@
 #code your solutions here
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
-perfect_10_recipe {
+perfect_10_recipe = {
   "almonds" => "2 cups",
   "gluten-free whole oats" => "1 cup",
   "kosher salt" => "1/2 tsp",
